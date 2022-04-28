@@ -3,8 +3,8 @@ pandas
 Flask
 scikit-learn
 scipy
-torch==1.7.0
-torchvision==0.8.1
+torch==1.7.0+cpu
+torchvision==0.8.1+cpu
 requests
 Pillow
 gunicorn == 20.0.4
