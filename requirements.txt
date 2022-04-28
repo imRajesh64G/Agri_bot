@@ -5,7 +5,7 @@ Flask
 scikit-learn
 scipy
 torch==1.7.0+cpu
-torchvision==0.8.0+cpu
+torchvision==0.8.1+cpu
 requests
 Pillow
 gunicorn == 20.0.4
